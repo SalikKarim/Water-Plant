@@ -16,6 +16,7 @@ public class Minor {
     static final byte I2C0 = 0x3C; // OLED   Display
 
     public Minor(String pumping) {
+
         this.pumping = pumping;
     }
 
